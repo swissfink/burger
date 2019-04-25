@@ -34,6 +34,13 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 ![GIF of Burger App being used](https://github.com/swissfink/burger/blob/master/README%20Images/burger_app.gif) 
 
+---
+
+# Check it out yourself!
+
+[Yay Burgers!](https://agile-savannah-75377.herokuapp.com/) 
+
+---
 
 
 [Back to top](#Burger-MVC)
