@@ -1,4 +1,4 @@
-# Burger MVC
+# Burger MVC :hamburger:
 
 A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
@@ -34,11 +34,12 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 ![GIF of Burger App being used](https://github.com/swissfink/burger/blob/master/README%20Images/burger_app.gif) 
 
+
 ---
 
 # Check it out yourself!
 
-[Yay Burgers!](https://agile-savannah-75377.herokuapp.com/) 
+[Click here to got to the YAY BURGERZ! App...:arrow_upper_right:](https://agile-savannah-75377.herokuapp.com/) 
 
 ---
 
