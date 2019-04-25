@@ -1,4 +1,4 @@
-# Burger MVC :hamburger:
+# :hamburger: Burger MVC 
 
 A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
@@ -22,7 +22,7 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 * Similarly, each burger on the right side has a `I WANTS DIS ONE AGAIN!` button. When the user clicks it, the burger will move to the left column.
 
-* Also, there is a "__delete from list__" button. When the user clicks it, the burger will be removed from the list and the database.
+* Also, there is a <ins><i>delete from list</i></ins> button. When the user clicks it, the burger will be removed from the list and the database.
 
 ![Image of Burger Lists](https://github.com/swissfink/burger/blob/master/README%20Images/burger%20lists.png)
 
@@ -39,7 +39,9 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 # Check it out yourself!
 
-[Click here to got to the YAY BURGERZ! App...:arrow_upper_right:](https://agile-savannah-75377.herokuapp.com/) 
+[Click here to go to the I WANT DA YUMMY YAY BURGERZ! App... :arrow_upper_right:](https://agile-savannah-75377.herokuapp.com/) 
+
+<a href="https://agile-savannah-75377.herokuapp.com/" target="_blank">I WANT DA YUMMY YAY BURGERZ!</a>
 
 ---
 
