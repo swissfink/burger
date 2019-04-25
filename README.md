@@ -10,17 +10,17 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 * The app stores every burger in a database, whether it's devoured or not.
 
-* A user can add the name of a burger that they would like to devour OR one that they have already devoured.
+* A user can `ADD DA BURGER!` that they would like to devour OR one that they have already devoured.
 
 ![Image of Add a Burger Form](https://github.com/swissfink/burger/blob/master/README%20Images/add%20a%20burger.png)
 
 
 
-* The app displays the BURGERZ NOT DEVOURED in the red column and the BURGERZ DEVOURED in the green one.
+* The app displays the BURGERZ NOT DEVOURED in the red column and the BURGERZ DEVOURED in the green column.
 
-* Each burger in the red column has a `I HAS DEVOURED THIS ONE!` button. When the user clicks it, the burger will move to the green column.
+* Each burger in the red column has an `I HAS DEVOURED THIS ONE!` button. When the user clicks it, the burger will move over to the green column.
 
-* Similarly, each burger on the green side has a `I WANTS DIS ONE AGAIN!` button. When the user clicks it, the burger will move to the red column.
+* Similarly, each burger on the green side has an `I WANTS DIS ONE AGAIN!` button. When the user clicks it, the burger will move over to the red column.
 
 * Also, there is a <ins><i>delete from list</i></ins> link. When the user clicks it, the burger will be removed from the list and from the database.
 
