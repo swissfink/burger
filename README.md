@@ -2,7 +2,7 @@
 
 A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Burger App Landing Page](https://github.com/swissfink/burger/blob/master/README%20Images/burger%20app%20pic.png)
 
 ## How it works
 
@@ -12,7 +12,7 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 * A user can add the name of a burger that they would like to devour OR one that they have already devoured.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Add a Burger Form](https://github.com/swissfink/burger/blob/master/README%20Images/add%20a%20burger.png)
 
 
 
@@ -22,9 +22,9 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 * Similarly, each burger on the right side has a `I WANTS DIS ONE AGAIN!` button. When the user clicks it, the burger will move to the left column.
 
-* Also, there is a `__delete from list__` button. When the user clicks it, the burger will be removed from the list and the database.
+* Also, there is a "__delete from list__" button. When the user clicks it, the burger will be removed from the list and the database.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Burger Lists](https://github.com/swissfink/burger/blob/master/README%20Images/burger%20lists.png)
 
 
 
@@ -32,7 +32,7 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 * Whenever a burger is added, updated, or deleted in the web app, the database is updated as well.
 
-![alt text](https://github.com/swissfink/bamazon/blob/master/GIFs/Customer-Full-Inventory.gif "bamazon customer full inventory example gif") 
+![GIF of Burger App being used](https://github.com/swissfink/burger/blob/master/README%20Images/burger_app.gif) 
 
 
 
