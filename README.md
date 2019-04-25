@@ -16,13 +16,13 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 
 
 
-* The app displays the BURGERZ NOT DEVOURED on the left side of the page and the BURGERZ DEVOURED on the right.
+* The app displays the BURGERZ NOT DEVOURED in the red column and the BURGERZ DEVOURED in the green one.
 
-* Each burger on the left side has a `I HAS DEVOURED THIS ONE!` button. When the user clicks it, the burger will move to the right column.
+* Each burger in the red column has a `I HAS DEVOURED THIS ONE!` button. When the user clicks it, the burger will move to the green column.
 
-* Similarly, each burger on the right side has a `I WANTS DIS ONE AGAIN!` button. When the user clicks it, the burger will move to the left column.
+* Similarly, each burger on the green side has a `I WANTS DIS ONE AGAIN!` button. When the user clicks it, the burger will move to the red column.
 
-* Also, there is a <ins><i>delete from list</i></ins> button. When the user clicks it, the burger will be removed from the list and the database.
+* Also, there is a <ins><i>delete from list</i></ins> link. When the user clicks it, the burger will be removed from the list and from the database.
 
 ![Image of Burger Lists](https://github.com/swissfink/burger/blob/master/README%20Images/burger%20lists.png)
 
@@ -40,8 +40,6 @@ A burger logger using MySQL, Node, Express, Handlebars and a homemade ORM.
 # Check it out yourself!
 
 [Click here to go to the I WANT DA YUMMY YAY BURGERZ! App... :arrow_upper_right:](https://agile-savannah-75377.herokuapp.com/) 
-
-<a href="https://agile-savannah-75377.herokuapp.com/" target="_blank">I WANT DA YUMMY YAY BURGERZ!</a>
 
 ---
 
